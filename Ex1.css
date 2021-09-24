@@ -1,0 +1,72 @@
+body{
+    background: #B7A59E;   /*couleur du fond*/
+}
+.bleu{
+    background: #9EEAE2;
+    border: solid black;
+    position: fixed;
+    top:5%;
+    bottom:5%;
+    left:5%;
+    right:51%;
+    z-index:1;
+}
+.un{
+    position: fixed;
+    top:50%;
+    left:25%;
+    z-index:2;
+}
+
+.vert{
+    background: #8FE37E;
+    position: fixed;
+    top:5%;
+    bottom:51%;
+    left:51%;
+    right:5%;
+    border: solid black;
+    z-index:1;
+}
+.deux{
+    position: fixed;
+    top:25%;
+    right:25%;
+    z-index:2;
+}
+
+.Ajaune{
+    background: #F1DA8E;
+    position: fixed;
+    top:51%;
+    bottom:5%;
+    left:51%;
+    right:28%;
+    border: solid black;
+    z-index:1;
+}
+.A{
+    position: fixed;
+    bottom:25%;
+    right:15%;
+    z-index:2;
+}
+
+.Bjaune{
+    background: #F1DA8E;
+    position: fixed;
+    top:51%;
+    bottom:5%;
+    left:74%;
+    right:5%;
+    border: solid black;
+    z-index:1;
+}
+.B{
+    position: fixed;
+    bottom:25%;
+    right:38%;
+    z-index:2;
+}
+
+
